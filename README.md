@@ -70,6 +70,8 @@ The network selector will automatically detect your current network and update t
 First, run the development server:
 
 ```bash
+git clone https://github.com/ivelinweb/Zera.git
+cd Zera
 npm run dev
 # or
 yarn dev
